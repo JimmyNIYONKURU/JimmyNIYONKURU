@@ -15,3 +15,22 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 </div>
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+
+---
+
+### :man_technologist: About Me :
+
+I'm a software developer and electrical/system engineering student.
+
+- :telescope: I'm currently working on software based personal projects and studying electrical and electronic engineering with the aim of specializing in autonomous systems.
+- :seedling: Exploring new tech domains : IoT, cloud, AI, etc.
+- :zap: In my free time, I like solve algorithmic challenges and reading tech articles
+
+
+
+
+
+
