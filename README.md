@@ -25,7 +25,7 @@
 
 I'm a software developer and electrical/system engineering student.
 
-- :telescope: I'm currently working on software based personal projects and studying electrical and electronic engineering with the aim of specializing in autonomous systems.
+- :telescope: I'm currently working on software based personal projects and studying electrical and electronic engineering with the aim of specializing in AI and autonomous systems.
 - :seedling: Exploring new tech domains : IoT, cloud, AI, etc.
 - :zap: In my free time, I like solving algorithmic challenges and reading tech articles
 
