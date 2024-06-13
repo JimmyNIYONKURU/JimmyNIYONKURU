@@ -23,10 +23,10 @@
 
 ### :man_technologist: About Me :
 
-I'm a software developer and electrical/system engineering student.
+I'm a software developer and electrical/system engineering student transitioning to computer sciences and engineering.
 
-- :telescope: I'm currently working on software based personal projects and studying electrical and electronic engineering with the aim of specializing in AI and autonomous systems.
-- :seedling: Exploring new tech domains : IoT, cloud, AI, etc.
+- :telescope: I'm currently working on software based personal projects and studying electrical and electronic engineering 
+- :seedling: Exploring new tech domains : Algorithms design, AI, cybersecurity, etc.
 - :zap: In my free time, I like solving algorithmic challenges and reading tech articles
 
 
