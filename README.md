@@ -23,7 +23,7 @@
 
 ### :man_technologist: About Me :
 
-I'm a software developer and a Computer Sciences & Engineering student(Since september 2024).
+I'm a software developer and a Computer Science & Engineering student(Since september 2024).
 
 - :telescope: I'm currently working on software based personal projects and preparing a computer engineering degree 
 - :seedling: Exploring new tech domains : Algorithms design,Software dev, Compilers, AI, cybersecurity, etc.
