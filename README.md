@@ -23,10 +23,10 @@
 
 ### :man_technologist: About Me :
 
-I'm a software developer and a Computer Science & Engineering student(Starting september 2024).
+I'm a software developer and an EECS student.
 
-- :telescope: I'm currently working on software based personal projects and will be preparing a computer engineering degree.
-- :seedling: Exploring new tech domains : Algorithms design, Software dev, Compilers, AI, cybersecurity, etc.
+- :telescope: I'm currently working on software based personal projects and am preparing an EECS degree.
+- :seedling: Exploring new tech domains : Algorithms design, Software dev, Compilers, AI, Electonics, etc.
 - :zap: In my free time, I like solving algorithmic challenges and reading tech articles
 
 
