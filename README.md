@@ -26,7 +26,7 @@
 I'm a software developer and an EECS student.
 
 - :telescope: I'm currently working on software based personal projects and am preparing an EECS degree.
-- :seedling: Exploring new tech domains : Algorithms design, Software dev, Compilers, AI, Electonics, etc.
+- :seedling: Exploring new tech domains : Algorithms design, Software dev, Compilers, AI, Electronics, etc.
 - :zap: In my free time, I like solving algorithmic challenges and reading tech articles
 
 
