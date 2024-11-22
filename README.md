@@ -26,7 +26,7 @@
 I'm a software developer and an EE student.
 
 - :telescope: I'm currently working on software based personal projects and am preparing an EE degree.
-- :seedling: Exploring new tech domains : Algorithms design,Compilers, AI, Electronics,digital systems, etc.
+- :seedling: Exploring new tech domains : Algorithms design, Compilers, AI, Electronics, digital systems, etc.
 - :zap: In my free time, I like solving algorithmic challenges and reading tech articles
 
 
