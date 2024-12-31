@@ -23,11 +23,11 @@
 
 ### :man_technologist: About Me :
 
-I'm a software developer and an EE student.
+I'm a software developer and an EECS student.
 
-- :telescope: I'm currently working on software based personal projects and am preparing an EE degree.
+- :telescope: I'm currently working on software based personal projects and am preparing an EECS degree.
 - :seedling: Exploring new tech domains : Algorithms design, Compilers, AI, Electronics, digital systems, etc.
-- :zap: In my free time, I like solving algorithmic challenges and reading tech articles
+- :zap: In my free time, I enjoy solving algorithmic challenges, reading and running outdoors.
 
 
 
