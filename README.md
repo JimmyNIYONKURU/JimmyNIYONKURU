@@ -23,11 +23,10 @@
 
 ### :man_technologist: About Me :
 
-I'm a software developer and an EECS student.
-
-- :telescope: I'm currently working on software based personal projects and am preparing an EECS degree.
-- :seedling: Exploring new tech domains : Algorithms design, Compilers, AI, Electronics, digital systems, etc.
-- :zap: In my free time, I enjoy solving algorithmic challenges, reading and running outdoors.
+- 🔭 I'm currently working on software-based personal projects while pursuing my EECS degree.  
+- 🌱 I’m exploring new tech domains: algorithms design, compilers, AI, os, digital systems, etc.  
+- 🚀 I have no particular allegiance to individual tech stacks, tools, languages, or paradigms—whatever I find interesting and challenging is what I dive into.  
+- ⚡ In my free time, I enjoy solving algorithmic challenges, reading, and running outdoors.
 
 
 
